@@ -14,6 +14,7 @@ I included my personal information and personal images on the home page as requi
 Contact page includes personal contact information and has a submit button for sending inquiries, however the submit button.
 As a bonus, I included a consistent sticky footer on each page. 
 Included links to bootstraps css, and bootstrap javasript in the code.
+Included a php file so that the button to send the email (line 94 on the contact.html file) is functional.
 
 
 
