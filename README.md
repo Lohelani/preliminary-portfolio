@@ -22,4 +22,5 @@ Included a php file so that the button to send the email (line 94 on the contact
 * Bootstrap
 * CSS 
 * HTML
-
+* javascript
+* php
