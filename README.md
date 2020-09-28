@@ -24,3 +24,12 @@ Included a php file so that the button to send the email (line 94 on the contact
 * HTML
 * javascript
 * php
+
+## Deployed Website
+https://lohelani.github.io/preliminary-portfolio/
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/70550481/94382875-4f80ab80-010c-11eb-90cc-879974088809.png)
+![image](https://user-images.githubusercontent.com/70550481/94382892-60c9b800-010c-11eb-9f9c-1c0cee0ab872.png)
+![image](https://user-images.githubusercontent.com/70550481/94382900-6a532000-010c-11eb-9557-227502606712.png)
+
